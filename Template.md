@@ -1,4 +1,4 @@
-# LIP 001 : YOUR LIP TITLE
+# LIP XXX : TITLE of the LIP
 
 ##Authors
 author1, way-to-identify-you
