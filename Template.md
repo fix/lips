@@ -2,6 +2,7 @@
 
 ##Authors
 author1, way-to-identify-you
+
 author2, way-to-identify-you
 
 ##Rationale
